@@ -1,5 +1,5 @@
 #### Read from noaa .gz Weather station data and save to parquet
-[noaa ftp](ftp://ncdc.noaa.gov/pub/data/noaa/)
+noaa ftp ftp://ftp.ncdc.noaa.gov/pub/data/noaa/
 
 ```
 $SPARK_HOME/bin/spark-submit \                                                   
